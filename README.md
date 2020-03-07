@@ -5,7 +5,7 @@
 
 #### 系統    
 * Windows 10
-* Python 3.7 
+* Python 3.6.9 
 * TensorFlow 2.1
 
 #### 參考資料
