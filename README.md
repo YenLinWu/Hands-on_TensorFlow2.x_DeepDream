@@ -13,4 +13,4 @@
 * DeepDream Tutorials [https://www.tensorflow.org/tutorials/generative/deepdream](https://www.tensorflow.org/tutorials/generative/deepdream)
 
 #### 作者
-<span> - Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
+<span> -&copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
